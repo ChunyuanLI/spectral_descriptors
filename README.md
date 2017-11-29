@@ -3,10 +3,41 @@ Chunyuan Li <chunyuan.li@duke.edu>
 
 ## Visualization of Different Spectral Descriptors
 
-Heat Kernel Signature (HKS)   |  Wave Kernel Signature (WKS)  |  Spectral Graph Wavelet Signature (SGWS)
+Heat Kernel Signature (HKS)| Wave Kernel Signature (WKS)| Spectral Graph Wavelet Signature (SGWS)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/figs/hks.png)  |  ![](/figs/wks.png)  |  ![](/figs/sgws.png)
 
+Please see more details in my [Slides](/slides_spectral.pdf) and [Master Thesis](http://spectrum.library.concordia.ca/976916/4/Li_MSc_F2013.pdf)
+
+
+## Citation
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1709.01215):
+
+```
+@article{li2013multiresolution,
+  title={A multiresolution descriptor for deformable 3D shape retrieval},
+  author={Li, Chunyuan and Hamza, A Ben},
+  journal={The Visual Computer},
+  volume={29},
+  number={6-8},
+  pages={513--524},
+  year={2013},
+  publisher={Springer}
+}
+```
+
+```
+@article{li2014spatially,
+  title={Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey},
+  author={Li, Chunyuan and Hamza, A Ben},
+  journal={Multimedia Systems},
+  volume={20},
+  number={3},
+  pages={253--281},
+  year={2014},
+  publisher={Springer}
+}
+```
 
 ## Instructions
   1. Open 'demo_spectral_descriptor.m'.
