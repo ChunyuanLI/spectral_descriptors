@@ -1,7 +1,16 @@
 Authors: 
 Chunyuan Li <chunyuan.li@duke.edu>
 
-## Instructions:
+## Visualization of Different Spectral Descriptors
+
+Heat Kernel Signature (HKS)   |  Wave Kernel Signature (WKS)  |  Spectral Graph Wavelet Signature (SGWS)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/figs/hks.png)  
+|  ![](/figs/wks.png)  
+|  ![](/figs/sgws.png)
+
+
+## Instructions
   1. Open 'demo_spectral_descriptor.m'.
 
   2. Set the type of spectral descriptor by spectifying the variable 'DescriptorType'.
