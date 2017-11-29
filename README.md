@@ -11,7 +11,7 @@ Please see more details in my [Slides](/slides_spectral.pdf) and [Master Thesis]
 
 
 ## Citation
-If you use this code for your research, please cite our papers:
+If you use this code for your research, please cite our papers
 
 [Spectral Graph Wavelet Signature](http://users.encs.concordia.ca/~hamza/paperVC13.pdf):
 ```
@@ -26,7 +26,7 @@ If you use this code for your research, please cite our papers:
   publisher={Springer}
 }
 ```
-[Empirical Comparison of Spectral Descriptors](https://users.encs.concordia.ca/~hamza/MSsurvey2014.pdf):
+[Empirical Comparison of Spectral Descriptors](https://users.encs.concordia.ca/~hamza/MSsurvey2014.pdf)
 ```
 @article{li2014spatially,
   title={Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey},
@@ -40,7 +40,7 @@ If you use this code for your research, please cite our papers:
 }
 ```
 
-If you are are interested in spatial pyramid matching on 3D surfaces, please check out [Intrinsic SPM](https://github.com/ChunyuanLI/ISPM)
+If you are are interested in spatial pyramid matching on 3D surfaces, please check out **[Intrinsic SPM](https://github.com/ChunyuanLI/ISPM)**
 
 
 ## How to use the code
