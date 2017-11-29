@@ -5,9 +5,7 @@ Chunyuan Li <chunyuan.li@duke.edu>
 
 Heat Kernel Signature (HKS)   |  Wave Kernel Signature (WKS)  |  Spectral Graph Wavelet Signature (SGWS)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/figs/hks.png)  
-|  ![](/figs/wks.png)  
-|  ![](/figs/sgws.png)
+![](/figs/hks.png)  |  ![](/figs/wks.png)  |  ![](/figs/sgws.png)
 
 
 ## Instructions
