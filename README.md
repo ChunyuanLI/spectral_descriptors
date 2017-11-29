@@ -7,12 +7,13 @@ Heat Kernel Signature (HKS)| Wave Kernel Signature (WKS)| Spectral Graph Wavelet
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/figs/hks.png)  |  ![](/figs/wks.png)  |  ![](/figs/sgws.png)
 
-Please see more details in my [Slides](/slides_spectral.pdf) and [Master Thesis](http://spectrum.library.concordia.ca/976916/4/Li_MSc_F2013.pdf)
+Please see more details in my [Slides](/slides_spectral.pdf) and [Master Thesis](http://spectrum.library.concordia.ca/976916/4/Li_MSc_F2013.pdf), or [Wikipedia](https://en.wikipedia.org/wiki/Spectral_shape_analysis)
 
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://arxiv.org/abs/1709.01215):
+If you use this code for your research, please cite our papers:
 
+[Spectral Graph Wavelet Signature](http://users.encs.concordia.ca/~hamza/paperVC13.pdf):
 ```
 @article{li2013multiresolution,
   title={A multiresolution descriptor for deformable 3D shape retrieval},
@@ -25,7 +26,7 @@ If you use this code for your research, please cite our [paper](https://arxiv.or
   publisher={Springer}
 }
 ```
-
+[Empirical Comparison of Spectral Descriptors](https://users.encs.concordia.ca/~hamza/MSsurvey2014.pdf):
 ```
 @article{li2014spatially,
   title={Spatially aggregating spectral descriptors for nonrigid 3D shape retrieval: a comparative survey},
@@ -39,7 +40,10 @@ If you use this code for your research, please cite our [paper](https://arxiv.or
 }
 ```
 
-## Instructions
+If you are are interested in spatial pyramid matching on 3D surfaces, please check out [Intrinsic SPM](https://github.com/ChunyuanLI/ISPM)
+
+
+## How to use the code
   1. Open 'demo_spectral_descriptor.m'.
 
   2. Set the type of spectral descriptor by spectifying the variable 'DescriptorType'.
